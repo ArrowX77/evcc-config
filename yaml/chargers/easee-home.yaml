@@ -1,0 +1,7 @@
+sponsortoken: ey____ #Paste your sponsortoken here
+name: number_one
+type: easee-home
+user: foo@example.org
+password: *****
+charger: EH______
+cache: 10s
